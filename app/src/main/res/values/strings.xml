@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">LocaAuto</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="reservas">Reservas</string>
+    <string name="perfil">Perfil</string>
+
+    <string name="cartao">Cartão de Crédito</string>
+    <string name="listar_cartoes">Listar Cartões de Crédito</string>
+    <string name="adicionar_cartao">Adicionar Cartão de Crédito</string>
+    <string name="editar_cartao">Editar Cartão de Crédito</string>
+    <string name="excluir_cartao">Deseja excluir o cartão de crédito?</string>
+    <string name="numero_cartao">Número do Cartão*</string>
+    <string name="nome_cartao">Nome Impresso no Cartão*</string>
+    <string name="validade_cartao">Data de Validade*</string>
+    <string name="cvv_cartao">Código de Segurança*</string>
+    <string name="cartao_salvo">Cartão salvo</string>
+    <string name="informar_numero_cartao">Por favor, informe o número do cartão</string>
+    <string name="informar_nome_cartao">Por favor, informe o nome impresso no cartão</string>
+    <string name="informar_validade_cartao">Por favor, informe a validade do cartão</string>
+    <string name="informar_cvv">Por favor, informe o código de segurança do cartão</string>
+    <string name="cartao_atualizado">Cartão atualizado</string>
+    <string name="cartao_excluido">Cartão excluído</string>
+
+    <string name="dados_pessoais">Dados Pessoais</string>
+    <string name="data_nascimento">Data de Nascimento*</string>
+    <string name="telefone">Telefone*</string>
+    <string name="cpf">CPF*</string>
+    <string name="informar_cpf">Por favor, informe seu CPF</string>
+    <string name="informar_telefone">Por favor, informe seu telefone</string>
+    <string name="informar_nascimento">Por favor, informe sua data de nascimento</string>
+    <string name="informar_nome">Por favor, informe o seu nome</string>
+    <string name="dados_salvos">Dados salvos</string>
+
+    <string name="cnh">CNH</string>
+    <string name="cnh_numero">Número da CNH*</string>
+    <string name="cnh_registro">Número do Registro*</string>
+    <string name="cnh_validade">Data de Validade*</string>
+    <string name="informar_estado_cnh">Por favor, informe o estado da CNH</string>
+    <string name="informar_validade_cnh">Por favor, informe a validade da CNH</string>
+    <string name="informar_registro_cnh">Por favor, informe o número do registro da CNH</string>
+    <string name="informar_numero_cnh">Por favor, informe o número da CNH</string>
+    <string name="cnh_salva">CNH salva</string>
+
+
+    <string name="endereco">Endereço</string>
+    <string name="endereco_campo">Endereço*</string>
+    <string name="estado">Estado*</string>
+    <string name="informar_cep">Por favor, informe o CEP</string>
+    <string name="informar_logradouro">Por favor, informe o logradouro</string>
+    <string name="informar_endereco">Por favor, informe o endereço</string>
+    <string name="informar_numero_endereco">Por favor, informe o número</string>
+    <string name="informar_bairro">Por favor, informe o bairro</string>
+    <string name="informar_cidade">Por favor, informe a cidade</string>
+    <string name="informar_estado_endereco">Por favor, informe o estado</string>
+    <string name="endereco_salvo">Endereço salvo</string>
+
+
+    <string name="listar_reservas">Listar Reservas</string>
+    <string name="criar_reserva">Criar Reserva</string>
+    <string name="aviso_criar_cartao">Você precisa criar um cartão no seu perfil para criar uma reserva!</string>
+    <string name="retirada">Data de Retirada*</string>
+    <string name="devolucao">Data de Devolução*</string>
+    <string name="selecionar_carro">Selecione o carro*</string>
+    <string name="selecionar_cartao">Selecione o cartão*</string>
+    <string name="informar_retirada">Por favor, informe a data de retirada</string>
+    <string name="informar_devolucao">Por favor, informe a data de devolução</string>
+    <string name="reserva_criada">Reserva criada</string>
+    <string name="cancelar_reserva">"Deseja cancelar a reserva?"</string>
+
+    <string name="listar">Listar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="cep">CEP*</string>
+    <string name="nome">Nome*</string>
+    <string name="logradouro">Logradouro*</string>
+    <string name="numero">Número*</string>
+    <string name="bairro">Bairro*</string>
+    <string name="cidade">Cidade*</string>
+
+    <string name="reserva_cancelada">Reserva cancelada</string>
+    <string name="reserva_atualizada">Reserva atualizada</string>
+    <string name="informar_carro">Por favor, informe o carro</string>
+    <string name="informar_cartao">Por favor, informe o cartão</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">CPF</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entre ou cadastre-se</string>
+    <string name="action_sign_in_short">Entre</string>
+    <string name="action_logout">Sair</string>
+    <string name="welcome">"Seja bem vindo!"</string>
+    <string name="invalid_username">CPF inválido</string>
+    <string name="invalid_password">Senha precisa ter 6 caracteres ou mais</string>
+    <string name="login_failed">"Login falhou"</string>
+
+</resources>
